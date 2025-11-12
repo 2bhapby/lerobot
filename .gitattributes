@@ -1,1 +1,6 @@
 *.json !text !filter !merge !diff
+*.safetensors !text !filter !merge !diff
+*.mp4 !text !filter !merge !diff
+*.pth !text !filter !merge !diff
+*.zip !text !filter !merge !diff
+*.hdf5 !text !filter !merge !diff
